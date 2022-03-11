@@ -23,10 +23,10 @@ public class ValorMonedaPaises {
         monedaAustralia = monedaAustralia * dolares;
         monedaCanada = monedaCanada * dolares;
         
-        System.out.println("Conversion de Moneda de Europa: " + monedaEuropa);
-        System.out.println("Conversion de Moneda de Reino Unido: " + monedaReinoUnido);
-        System.out.println("Conversion de Moneda de Australia: " + monedaAustralia);
-        System.out.println("Conversion de Moneda de Canada: " + monedaCanada);
+        System.out.println("Conversion de $100 a Moneda de Europa: " + monedaEuropa);
+        System.out.println("Conversion de $100 a Moneda de Reino Unido: " + monedaReinoUnido);
+        System.out.println("Conversion de $100 a Moneda de Australia: " + monedaAustralia);
+        System.out.println("Conversion de $100 a Moneda de Canada: " + monedaCanada);
         
         
     }
