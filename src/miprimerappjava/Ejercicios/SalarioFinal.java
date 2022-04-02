@@ -5,15 +5,12 @@
  */
 package miprimerappjava.Ejercicios;
 
-/**
- *
- * @author Marihuano
- */
+
 public class SalarioFinal {
     public static void main(String[] args) {
        int salarioDiario, horasExtras, salarioFinal, renta;
        /*NumberFormat formato = new DecimalFormat("#0.00");*/
-       salarioDiario = 20;
+       salarioDiario = 10;
        horasExtras = 50;
        salarioFinal =  (int) Math.sqrt(salarioDiario + horasExtras);
        
